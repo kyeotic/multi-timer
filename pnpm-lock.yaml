@@ -41,6 +41,9 @@ importers:
       nanoid:
         specifier: ^4.0.0
         version: 4.0.2
+      nosleep.js:
+        specifier: ^0.12.0
+        version: 0.12.0
       solid-forms:
         specifier: ^0.4.6
         version: 0.4.8(solid-js@1.9.5)
@@ -809,6 +812,9 @@ packages:
   node-releases@2.0.19:
     resolution: {integrity: sha512-xxOWJsBKtzAq7DY0J+DTzuz58K8e7sJbdgwkbMWQe8UYB6ekmsQ45q0M/tJDsGaZmbC+l7n57UV8Hl5tHxO9uw==}
 
+  nosleep.js@0.12.0:
+    resolution: {integrity: sha512-9d1HbpKLh3sdWlhXMhU6MMH+wQzKkrgfRkYV0EBdvt99YJfj0ilCJrWRDYG2130Tm4GXbEoTCx5b34JSaP+HhA==}
+
   parse5@7.2.1:
     resolution: {integrity: sha512-BuBYQYlv1ckiPdQi/ohiivi9Sagc9JG+Ozs0r7b/0iK3sKmrb0b9FdWdBbOdx6hBCM/F9Ir82ofnBhtZOjCRPQ==}
 
@@ -1553,6 +1559,8 @@ snapshots:
   nanoid@4.0.2: {}
 
   node-releases@2.0.19: {}
+
+  nosleep.js@0.12.0: {}
 
   parse5@7.2.1:
     dependencies:

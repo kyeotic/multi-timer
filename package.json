@@ -34,6 +34,7 @@
     "date-fns": "^2.29.3",
     "lodash": "^4.17.21",
     "nanoid": "^4.0.0",
+    "nosleep.js": "^0.12.0",
     "solid-forms": "^0.4.6",
     "solid-js": "^1.9.5",
     "solid-toast": "^0.5.0",
